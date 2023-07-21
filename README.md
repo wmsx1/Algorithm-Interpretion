@@ -1,2 +1,2 @@
-# OI-Books-ILL
-A summary of Books about OI or more.
+# Algorithm Interpretion
+A project aimed to interpret some classical algorithms,welcome to join us.
